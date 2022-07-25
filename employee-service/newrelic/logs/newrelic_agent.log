@@ -1,0 +1,158 @@
+2022-06-16T13:21:52,543+0530 [9812 1] com.newrelic INFO: Writing to New Relic log file: E:\java-eclipse-workspace\ludo-app\ludo-game\newrelic\logs\newrelic_agent.log
+2022-06-16T13:21:52,544+0530 [9812 1] com.newrelic INFO: JRE vendor Oracle Corporation version 15.0.2
+2022-06-16T13:21:52,544+0530 [9812 1] com.newrelic INFO: JVM vendor Oracle Corporation OpenJDK 64-Bit Server VM version 15.0.2+7-27
+2022-06-16T13:21:52,544+0530 [9812 1] com.newrelic INFO: OS Windows 10 version 10.0 arch amd64
+2022-06-16T13:21:52,544+0530 [9812 1] com.newrelic INFO: Agent Host: SANU-PC IP: 192.168.0.16
+2022-06-16T13:21:52,544+0530 [9812 1] com.newrelic INFO: New Relic Agent v7.7.0 is initializing...
+2022-06-16T13:21:54,423+0530 [9812 17] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+2022-06-16T13:21:57,301+0530 [9812 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+2022-06-16T13:21:58,160+0530 [9812 1] com.newrelic INFO: Setting audit_mode to false
+2022-06-16T13:21:58,626+0530 [9812 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is E:\java-eclipse-workspace\ludo-app\ludo-game\newrelic\.\newrelic.yml
+2022-06-16T13:21:58,642+0530 [9812 1] com.newrelic INFO: New Relic Agent v7.7.0 has started
+2022-06-16T13:21:58,642+0530 [9812 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@6fc6f14e
+2022-06-16T13:21:58,643+0530 [9812 1] com.newrelic INFO: Premain startup complete in 8,875ms
+2022-06-16T13:22:07,535+0530 [9812 1] com.newrelic INFO: Server Info: Apache Tomcat/9.0.34
+2022-06-16T13:22:13,652+0530 [9812 39] com.newrelic INFO: Host name is SANU-PC, display host SANU-PC for application Ludo game
+2022-06-16T13:22:13,654+0530 [9812 39] com.newrelic INFO: New Relic JFR Monitor is disabled: JFR config has not been enabled in the Java agent.
+2022-06-16T13:22:14,967+0530 [9812 39] com.newrelic INFO: Collector redirection to collector-001.newrelic.com:443
+2022-06-16T13:22:15,986+0530 [9812 39] com.newrelic INFO: Max payload size is 1,000,000 bytes
+2022-06-16T13:22:15,986+0530 [9812 39] com.newrelic INFO: Agent run id: BViVyr_vlznVADP8JSMog1diquGYAAIBAAAnIQEAACZUAgQjKIOCAwAFNy43LjAAB1NBTlUtUEMACUx1ZG8gZ2FtZQ
+2022-06-16T13:22:15,986+0530 [9812 39] com.newrelic INFO: Agent 9812@SANU-PC/Ludo game connected to collector.newrelic.com:443
+2022-06-16T13:22:15,987+0530 [9812 39] com.newrelic INFO: Reporting to: https://rpm.newrelic.com/accounts/3406885/applications/589857666
+2022-06-16T13:22:15,990+0530 [9812 39] com.newrelic INFO: Using default collector host: collector.newrelic.com
+2022-06-16T13:22:15,990+0530 [9812 39] com.newrelic INFO: Using default metric ingest URI: https://metric-api.newrelic.com/metric/v1
+2022-06-16T13:22:15,990+0530 [9812 39] com.newrelic INFO: Using default event ingest URI: https://insights-collector.newrelic.com/v1/accounts/events
+2022-06-16T13:22:15,992+0530 [9812 39] com.newrelic INFO: Using default collector host: collector.newrelic.com
+2022-06-16T13:22:15,993+0530 [9812 39] com.newrelic INFO: Using default metric ingest URI: https://metric-api.newrelic.com/metric/v1
+2022-06-16T13:22:15,993+0530 [9812 39] com.newrelic INFO: Using default event ingest URI: https://insights-collector.newrelic.com/v1/accounts/events
+2022-06-16T13:22:17,034+0530 [9812 39] com.newrelic INFO: Real user monitoring is enabled for application Ludo game. Auto instrumentation is enabled.
+2022-06-16T13:22:17,073+0530 [9812 39] com.newrelic INFO: New Relic JFR Monitor is disabled: JFR config has not been enabled in the Java agent.
+2022-06-16T13:55:48,553+0530 [9812 15] com.newrelic.agent.core.CoreServiceImpl INFO: JVM is shutting down
+2022-06-16T13:55:49,006+0530 [9812 60] com.newrelic INFO: Transaction com.newrelic.agent.Transaction@20a4de40 tried to finish but ServiceManager not started
+2022-06-16T13:55:49,131+0530 [9812 15] com.newrelic.agent.core.CoreServiceImpl INFO: New Relic Agent has shutdown
+2022-07-23T13:08:42,366+0530 [11504 1] com.newrelic INFO: Writing to New Relic log file: E:\NewRelic\employee-service\newrelic\logs\newrelic_agent.log
+2022-07-23T13:08:42,366+0530 [11504 1] com.newrelic INFO: JRE vendor Oracle Corporation version 11.0.3
+2022-07-23T13:08:42,367+0530 [11504 1] com.newrelic INFO: JVM vendor Oracle Corporation Java HotSpot(TM) 64-Bit Server VM version 11.0.3+12-LTS
+2022-07-23T13:08:42,367+0530 [11504 1] com.newrelic INFO: OS Windows 10 version 10.0 arch amd64
+2022-07-23T13:08:42,367+0530 [11504 1] com.newrelic INFO: Agent Host: SANU-PC IP: 192.168.137.1
+2022-07-23T13:08:42,367+0530 [11504 1] com.newrelic INFO: New Relic Agent v7.7.0 is initializing...
+2022-07-23T13:08:43,125+0530 [11504 16] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+2022-07-23T13:08:49,518+0530 [11504 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+2022-07-23T13:08:49,813+0530 [11504 1] com.newrelic INFO: Setting audit_mode to false
+2022-07-23T13:08:49,993+0530 [11504 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is E:\NewRelic\employee-service\newrelic\.\newrelic.yml
+2022-07-23T13:08:50,000+0530 [11504 1] com.newrelic INFO: New Relic Agent v7.7.0 has started
+2022-07-23T13:08:50,000+0530 [11504 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@2d928643
+2022-07-23T13:08:50,001+0530 [11504 1] com.newrelic INFO: Premain startup complete in 9,184ms
+2022-07-23T13:08:54,588+0530 [11504 1] com.newrelic INFO: Server Info: Apache Tomcat/9.0.56
+2022-07-23T13:09:00,013+0530 [11504 38] com.newrelic INFO: Host name is SANU-PC, display host SANU-PC for application employee-service
+2022-07-23T13:09:00,018+0530 [11504 38] com.newrelic INFO: New Relic JFR Monitor is disabled: JFR config has not been enabled in the Java agent.
+2022-07-23T13:09:01,749+0530 [11504 38] com.newrelic INFO: Collector redirection to collector-001.newrelic.com:443
+2022-07-23T13:09:03,901+0530 [11504 38] com.newrelic INFO: Max payload size is 1,000,000 bytes
+2022-07-23T13:09:03,901+0530 [11504 38] com.newrelic INFO: Agent run id: BWq-pXnwraMTADP8JSBvNUli26YMAAIBAAAnIQEAACzwAgQgby8xAwAFNy43LjAAB1NBTlUtUEMAEGVtcGxveWVlLXNlcnZpY2U
+2022-07-23T13:09:03,901+0530 [11504 38] com.newrelic INFO: Agent 11504@SANU-PC/employee-service connected to collector.newrelic.com:443
+2022-07-23T13:09:03,902+0530 [11504 38] com.newrelic INFO: Reporting to: https://rpm.newrelic.com/accounts/3406885/applications/544157489
+2022-07-23T13:09:03,904+0530 [11504 38] com.newrelic INFO: Using default collector host: collector.newrelic.com
+2022-07-23T13:09:03,904+0530 [11504 38] com.newrelic INFO: Using default metric ingest URI: https://metric-api.newrelic.com/metric/v1
+2022-07-23T13:09:03,904+0530 [11504 38] com.newrelic INFO: Using default event ingest URI: https://insights-collector.newrelic.com/v1/accounts/events
+2022-07-23T13:09:03,906+0530 [11504 38] com.newrelic INFO: Using default collector host: collector.newrelic.com
+2022-07-23T13:09:03,906+0530 [11504 38] com.newrelic INFO: Using default metric ingest URI: https://metric-api.newrelic.com/metric/v1
+2022-07-23T13:09:03,906+0530 [11504 38] com.newrelic INFO: Using default event ingest URI: https://insights-collector.newrelic.com/v1/accounts/events
+2022-07-23T13:09:06,723+0530 [11504 38] com.newrelic INFO: Real user monitoring is enabled for application employee-service. Auto instrumentation is enabled.
+2022-07-23T13:09:06,725+0530 [11504 38] com.newrelic INFO: New Relic JFR Monitor is disabled: JFR config has not been enabled in the Java agent.
+2022-07-23T14:12:17,876+0530 [3940 1] com.newrelic INFO: Writing to New Relic log file: E:\NewRelic\employee-service\newrelic\logs\newrelic_agent.log
+2022-07-23T14:12:17,898+0530 [3940 1] com.newrelic INFO: JRE vendor Oracle Corporation version 11.0.3
+2022-07-23T14:12:17,898+0530 [3940 1] com.newrelic INFO: JVM vendor Oracle Corporation Java HotSpot(TM) 64-Bit Server VM version 11.0.3+12-LTS
+2022-07-23T14:12:17,899+0530 [3940 1] com.newrelic INFO: OS Windows 10 version 10.0 arch amd64
+2022-07-23T14:12:17,900+0530 [3940 1] com.newrelic INFO: Agent Host: SANU-PC IP: 192.168.137.1
+2022-07-23T14:12:17,900+0530 [3940 1] com.newrelic INFO: New Relic Agent v7.7.0 is initializing...
+2022-07-23T14:12:26,221+0530 [3940 16] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+2022-07-23T14:12:35,355+0530 [3940 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+2022-07-23T14:12:36,135+0530 [3940 1] com.newrelic INFO: Setting audit_mode to false
+2022-07-23T14:12:36,554+0530 [3940 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is E:\NewRelic\employee-service\newrelic\.\newrelic.yml
+2022-07-23T14:12:36,567+0530 [3940 1] com.newrelic INFO: New Relic Agent v7.7.0 has started
+2022-07-23T14:12:36,567+0530 [3940 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@2d928643
+2022-07-23T14:12:36,567+0530 [3940 1] com.newrelic INFO: Premain startup complete in 34,105ms
+2022-07-23T14:12:48,773+0530 [3940 1] com.newrelic INFO: Server Info: Apache Tomcat/9.0.56
+2022-07-23T14:13:01,608+0530 [3940 38] com.newrelic INFO: Host name is SANU-PC, display host SANU-PC for application employee-service
+2022-07-23T14:13:01,610+0530 [3940 38] com.newrelic INFO: New Relic JFR Monitor is disabled: JFR config has not been enabled in the Java agent.
+2022-07-23T14:13:03,353+0530 [3940 38] com.newrelic INFO: Collector redirection to collector-001.newrelic.com:443
+2022-07-23T14:13:06,081+0530 [3940 38] com.newrelic INFO: Max payload size is 1,000,000 bytes
+2022-07-23T14:13:06,083+0530 [3940 38] com.newrelic INFO: Agent run id: BbRwmRKJrqYOADP8JSBvNUli27UMAAIBAAAnIQEAAA9kAgQgby8xAwAFNy43LjAAB1NBTlUtUEMAEGVtcGxveWVlLXNlcnZpY2U
+2022-07-23T14:13:06,083+0530 [3940 38] com.newrelic INFO: Agent 3940@SANU-PC/employee-service connected to collector.newrelic.com:443
+2022-07-23T14:13:06,083+0530 [3940 38] com.newrelic INFO: Reporting to: https://rpm.newrelic.com/accounts/3406885/applications/544157489
+2022-07-23T14:13:06,085+0530 [3940 38] com.newrelic INFO: Using default collector host: collector.newrelic.com
+2022-07-23T14:13:06,086+0530 [3940 38] com.newrelic INFO: Using default metric ingest URI: https://metric-api.newrelic.com/metric/v1
+2022-07-23T14:13:06,086+0530 [3940 38] com.newrelic INFO: Using default event ingest URI: https://insights-collector.newrelic.com/v1/accounts/events
+2022-07-23T14:13:06,089+0530 [3940 38] com.newrelic INFO: Using default collector host: collector.newrelic.com
+2022-07-23T14:13:06,089+0530 [3940 38] com.newrelic INFO: Using default metric ingest URI: https://metric-api.newrelic.com/metric/v1
+2022-07-23T14:13:06,089+0530 [3940 38] com.newrelic INFO: Using default event ingest URI: https://insights-collector.newrelic.com/v1/accounts/events
+2022-07-23T14:13:09,655+0530 [3940 38] com.newrelic INFO: Real user monitoring is enabled for application employee-service. Auto instrumentation is enabled.
+2022-07-23T14:13:09,657+0530 [3940 38] com.newrelic INFO: New Relic JFR Monitor is disabled: JFR config has not been enabled in the Java agent.
+2022-07-23T14:56:10,702+0530 [3940 54] com.newrelic INFO: Remote log_event_data call failed : javax.net.ssl.SSLProtocolException: Connection reset.
+2022-07-23T21:23:08,851+0530 [3940 54] com.newrelic INFO: Remote log_event_data call failed : javax.net.ssl.SSLProtocolException: Connection reset.
+2022-07-23T22:24:45,081+0530 [3940 53] com.newrelic INFO: Remote metric_data call failed : java.net.SocketTimeoutException: Read timed out.
+2022-07-23T22:24:45,083+0530 [3940 53] com.newrelic INFO: An unexpected error occurred sending metric data to New Relic. Please file a support ticket once you have seen several of these messages in a short period of time: java.net.SocketTimeoutException: Read timed out
+2022-07-23T22:24:48,537+0530 [3940 53] com.newrelic INFO: Successfully reconnected to the New Relic data service.
+2022-07-24T01:39:13,883+0530 [3940 14] com.newrelic.agent.core.CoreServiceImpl INFO: JVM is shutting down
+2022-07-24T01:39:20,831+0530 [3940 14] com.newrelic.agent.core.CoreServiceImpl INFO: New Relic Agent has shutdown
+2022-07-24T21:08:44,155+0530 [17052 1] com.newrelic INFO: Writing to New Relic log file: E:\NewRelic\employee-service\newrelic\logs\newrelic_agent.log
+2022-07-24T21:08:44,172+0530 [17052 1] com.newrelic INFO: JRE vendor Oracle Corporation version 11.0.3
+2022-07-24T21:08:44,172+0530 [17052 1] com.newrelic INFO: JVM vendor Oracle Corporation Java HotSpot(TM) 64-Bit Server VM version 11.0.3+12-LTS
+2022-07-24T21:08:44,173+0530 [17052 1] com.newrelic INFO: OS Windows 10 version 10.0 arch amd64
+2022-07-24T21:08:44,173+0530 [17052 1] com.newrelic INFO: Agent Host: SANU-PC IP: 192.168.1.18
+2022-07-24T21:08:44,174+0530 [17052 1] com.newrelic INFO: New Relic Agent v7.7.0 is initializing...
+2022-07-24T21:08:45,863+0530 [17052 16] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+2022-07-24T21:08:47,790+0530 [17052 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+2022-07-24T21:08:48,254+0530 [17052 1] com.newrelic INFO: Setting audit_mode to false
+2022-07-24T21:08:48,562+0530 [17052 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is E:\NewRelic\employee-service\newrelic\.\newrelic.yml
+2022-07-24T21:08:48,573+0530 [17052 1] com.newrelic INFO: New Relic Agent v7.7.0 has started
+2022-07-24T21:08:48,574+0530 [17052 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@2d928643
+2022-07-24T21:08:48,574+0530 [17052 1] com.newrelic INFO: Premain startup complete in 6,878ms
+2022-07-24T21:08:57,243+0530 [17052 1] com.newrelic INFO: Server Info: Apache Tomcat/9.0.56
+2022-07-24T21:09:18,634+0530 [17052 38] com.newrelic INFO: Host name is SANU-PC, display host SANU-PC for application employee-service
+2022-07-24T21:09:18,637+0530 [17052 38] com.newrelic INFO: New Relic JFR Monitor is disabled: JFR config has not been enabled in the Java agent.
+2022-07-24T21:09:20,261+0530 [17052 38] com.newrelic INFO: Collector redirection to collector-001.newrelic.com:443
+2022-07-24T21:09:21,944+0530 [17052 38] com.newrelic INFO: Max payload size is 1,000,000 bytes
+2022-07-24T21:09:21,944+0530 [17052 38] com.newrelic INFO: Agent run id: BWjrfL2ysp7AADP8JSBvNUli3WgMAAIBAAAnIQEAAEKcAgQgby8xAwAFNy43LjAAB1NBTlUtUEMAEGVtcGxveWVlLXNlcnZpY2U
+2022-07-24T21:09:21,945+0530 [17052 38] com.newrelic INFO: Agent 17052@SANU-PC/employee-service connected to collector.newrelic.com:443
+2022-07-24T21:09:21,946+0530 [17052 38] com.newrelic INFO: Reporting to: https://rpm.newrelic.com/accounts/3406885/applications/544157489
+2022-07-24T21:09:21,949+0530 [17052 38] com.newrelic INFO: Using default collector host: collector.newrelic.com
+2022-07-24T21:09:21,950+0530 [17052 38] com.newrelic INFO: Using default metric ingest URI: https://metric-api.newrelic.com/metric/v1
+2022-07-24T21:09:21,950+0530 [17052 38] com.newrelic INFO: Using default event ingest URI: https://insights-collector.newrelic.com/v1/accounts/events
+2022-07-24T21:09:21,962+0530 [17052 38] com.newrelic INFO: Using default collector host: collector.newrelic.com
+2022-07-24T21:09:21,963+0530 [17052 38] com.newrelic INFO: Using default metric ingest URI: https://metric-api.newrelic.com/metric/v1
+2022-07-24T21:09:21,963+0530 [17052 38] com.newrelic INFO: Using default event ingest URI: https://insights-collector.newrelic.com/v1/accounts/events
+2022-07-24T21:09:23,415+0530 [17052 38] com.newrelic INFO: Real user monitoring is enabled for application employee-service. Auto instrumentation is enabled.
+2022-07-24T21:09:23,420+0530 [17052 38] com.newrelic INFO: New Relic JFR Monitor is disabled: JFR config has not been enabled in the Java agent.
+2022-07-24T23:04:17,388+0530 [17052 14] com.newrelic.agent.core.CoreServiceImpl INFO: JVM is shutting down
+2022-07-24T23:04:21,200+0530 [17052 42] com.newrelic INFO: Transaction com.newrelic.agent.Transaction@4adbce50 tried to finish but ServiceManager not started
+2022-07-24T23:04:21,794+0530 [17052 14] com.newrelic.agent.core.CoreServiceImpl INFO: New Relic Agent has shutdown
+2022-07-25T12:42:36,301+0530 [9376 1] com.newrelic INFO: Writing to New Relic log file: E:\NewRelic\employee-service\newrelic\logs\newrelic_agent.log
+2022-07-25T12:42:36,303+0530 [9376 1] com.newrelic INFO: JRE vendor Oracle Corporation version 11.0.3
+2022-07-25T12:42:36,303+0530 [9376 1] com.newrelic INFO: JVM vendor Oracle Corporation Java HotSpot(TM) 64-Bit Server VM version 11.0.3+12-LTS
+2022-07-25T12:42:36,303+0530 [9376 1] com.newrelic INFO: OS Windows 10 version 10.0 arch amd64
+2022-07-25T12:42:36,303+0530 [9376 1] com.newrelic INFO: Agent Host: SANU-PC IP: 192.168.137.1
+2022-07-25T12:42:36,303+0530 [9376 1] com.newrelic INFO: New Relic Agent v7.7.0 is initializing...
+2022-07-25T12:42:37,927+0530 [9376 16] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+2022-07-25T12:42:45,242+0530 [9376 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+2022-07-25T12:42:45,720+0530 [9376 1] com.newrelic INFO: Setting audit_mode to false
+2022-07-25T12:42:46,080+0530 [9376 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is E:\NewRelic\employee-service\newrelic\.\newrelic.yml
+2022-07-25T12:42:46,080+0530 [9376 1] com.newrelic INFO: New Relic Agent v7.7.0 has started
+2022-07-25T12:42:46,080+0530 [9376 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@2d928643
+2022-07-25T12:42:46,080+0530 [9376 1] com.newrelic INFO: Premain startup complete in 12,389ms
+2022-07-25T12:42:55,902+0530 [9376 1] com.newrelic INFO: Server Info: Apache Tomcat/9.0.56
+2022-07-25T12:43:06,141+0530 [9376 38] com.newrelic INFO: Host name is SANU-PC, display host SANU-PC for application employee-service
+2022-07-25T12:43:06,142+0530 [9376 38] com.newrelic INFO: New Relic JFR Monitor is disabled: JFR config has not been enabled in the Java agent.
+2022-07-25T12:43:08,177+0530 [9376 38] com.newrelic INFO: Collector redirection to collector-001.newrelic.com:443
+2022-07-25T12:43:10,279+0530 [9376 38] com.newrelic INFO: Max payload size is 1,000,000 bytes
+2022-07-25T12:43:10,279+0530 [9376 38] com.newrelic INFO: Agent run id: Bdj2KduKPZZyADP8JSBvNUli3kL0AAIBAAAnIQEAACSgAgQgby8xAwAFNy43LjAAB1NBTlUtUEMAEGVtcGxveWVlLXNlcnZpY2U
+2022-07-25T12:43:10,284+0530 [9376 38] com.newrelic INFO: Agent 9376@SANU-PC/employee-service connected to collector.newrelic.com:443
+2022-07-25T12:43:10,285+0530 [9376 38] com.newrelic INFO: Reporting to: https://rpm.newrelic.com/accounts/3406885/applications/544157489
+2022-07-25T12:43:10,285+0530 [9376 38] com.newrelic INFO: Using default collector host: collector.newrelic.com
+2022-07-25T12:43:10,285+0530 [9376 38] com.newrelic INFO: Using default metric ingest URI: https://metric-api.newrelic.com/metric/v1
+2022-07-25T12:43:10,285+0530 [9376 38] com.newrelic INFO: Using default event ingest URI: https://insights-collector.newrelic.com/v1/accounts/events
+2022-07-25T12:43:10,285+0530 [9376 38] com.newrelic INFO: Using default collector host: collector.newrelic.com
+2022-07-25T12:43:10,285+0530 [9376 38] com.newrelic INFO: Using default metric ingest URI: https://metric-api.newrelic.com/metric/v1
+2022-07-25T12:43:10,301+0530 [9376 38] com.newrelic INFO: Using default event ingest URI: https://insights-collector.newrelic.com/v1/accounts/events
+2022-07-25T12:43:12,407+0530 [9376 38] com.newrelic INFO: Real user monitoring is enabled for application employee-service. Auto instrumentation is enabled.
+2022-07-25T12:43:12,438+0530 [9376 38] com.newrelic INFO: New Relic JFR Monitor is disabled: JFR config has not been enabled in the Java agent.
